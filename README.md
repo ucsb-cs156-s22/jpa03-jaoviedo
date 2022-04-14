@@ -4,6 +4,9 @@ Storybook is here:
 * Production: <https://ucsb-cs156-s22.github.io/jpa03-jaoviedo-docs/>
 * QA:  <https://ucsb-cs156-s22.github.io/jpa03-jaoviedo-docs-qa/>
 
+[![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-jaoviedo/branch/master/graph/badge.svg?token=39ZY3S8e07)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-jaoviedo)
+
+Repo: <https://github.com/ucsb-cs156-s22/jpa03-jaoviedo>
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
 If these repos are not yet setup, see the setup steps in [`docs/storybook.md`](docs/storybook.md).
